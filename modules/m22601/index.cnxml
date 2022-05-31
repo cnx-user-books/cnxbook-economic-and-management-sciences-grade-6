@@ -1,0 +1,309 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Financial aspects of the business</title>
+  <metadata>
+  <md:content-id>m22601</md:content-id><md:title>Financial aspects of the business</md:title>
+  <md:abstract/>
+  <md:uuid>3894e92d-e6c4-466b-ab9e-5d57cbfb9ba2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170865860050">
+      <title>ECONOMIC AND MANAGEMENT SCIENCES</title>
+      <para id="para-id1170865860050">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170870433375">
+      <title>Grade 6</title>
+      <para id="para-id1170870433375">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170865876058">
+      <title>THE BUSINESS PLAN</title>
+      <para id="para-id1170865876058">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170871606116">
+      <title>Module 10</title>
+      <para id="para-id1170871606116">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170870499569">
+      <title>THE FINANCIAL ASPECTS OF THE BUSINESS</title>
+      <para id="id1170871831152">This is the most important component of any business. You do want to start a business to make money, don't you? Financial planning, if done properly, should provide a very good indication of whether you will make money. Three important things have to be kept in mind concerning finances:</para>
+      <list id="id1170865887463" list-type="bulleted">
+        <item>You need to know how much money will be required <emphasis effect="bold">to start the business</emphasis>. How much of it are you able to provide yourself and how much will have to be borrowed? Will you have to pay interest on what you borrow, and how much?</item>
+        <item>You need to know whether the business will show a <emphasis effect="bold">profit</emphasis> or not. This means, will the total income be bigger than total expenditure? Try to make a twelve-month projection (estimation) on a monthly basis.</item>
+        <item>You need to know whether you will have money coming in fast enough to be able to pay for your expenses. This is referred to as the <emphasis effect="bold">cash flow</emphasis> of a business. Cash flow is not the same as profit. If you do not have enough cash, you will have a backlog that will have to be covered.</item>
+        <item>Start-up money (commencement capital)</item>
+      </list>
+      <para id="id1170865887172">Any new business needs money for starting up. It does not have to be much. Peter should have enough money for a good lawn mower and an edge trimmer only when he starts up his business. </para>
+      <para id="id1170867122766">Another business, like a car repair service, though, will need very specialised tools to be able to provide a good service.</para>
+      <list id="id1170867214171" list-type="bulleted">
+        <item>Will the business be profitable?</item>
+      </list>
+      <para id="id1170870250554">A business plan should provide a very good indication of whether the existing or proposed business would be profitable. There is no sense in starting a business that will not be profitable!</para>
+      <para id="id1170870479010">The business plan should contain a profit estimate calculated for at least twelve months ahead.</para>
+      <list id="id1170871512880" list-type="bulleted">
+        <item>Will the business generate enough money?</item>
+      </list>
+      <para id="id1170867046042">Do you remember that we pointed out earlier in the module that there is a difference between cash flow and profit?</para>
+      <para id="id1170870360782">The business plan should not indicate whether the business will be profitable only, but should also indicate the expected situation with regard to cash. Cash flow in a business has to do with how money comes into the business and goes out of the business.</para>
+    </section>
+    <section id="id1170871382458">
+      <title>Assignment</title>
+      <para id="id1170867146892">Let us study the following example, which illustrates these concepts very well:</para>
+      <para id="id1170871281239">Peter employs one additional worker in his lawn care business that earns R500 per month. Peter's lawn mower broke down and repairs and parts cost him R800, which had to be paid within 60 days. During the specific month, Peter expects to receive R2 500 in payment for all the lawns under his care, but he receives the money on the third day of the following month. He also had to pay R300 for fuel. </para>
+      <para id="id1170867163499">This is what the profit and cash flow situation is like at the end of the month:</para>
+      <table id="id1170870253766" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3">PROFIT</entry>
+              <entry namest="c4" nameend="c6">CASH FLOW</entry>
+            </row>
+            <row>
+              <entry>Service sales</entry>
+              <entry>R</entry>
+              <entry>2 500,00</entry>
+              <entry>Cash in:</entry>
+              <entry>R</entry>
+              <entry>0,00</entry>
+            </row>
+            <row>
+              <entry>Machine repairs</entry>
+              <entry>R</entry>
+              <entry>800,00</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Gross profit</entry>
+              <entry>R</entry>
+              <entry>1 700,00</entry>
+              <entry>Cash out:</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Salary</entry>
+              <entry>R</entry>
+              <entry>500,00</entry>
+            </row>
+            <row>
+              <entry>Expenditure:</entry>
+              <entry/>
+              <entry/>
+              <entry>Fuel</entry>
+              <entry>R</entry>
+              <entry>300,00</entry>
+            </row>
+            <row>
+              <entry>Salary</entry>
+              <entry>R</entry>
+              <entry>500,00</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Fuel</entry>
+              <entry>R</entry>
+              <entry>300,00</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Total expenditure</entry>
+              <entry>R</entry>
+              <entry>800,00</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3">Nett profit:R 1 700,00 - R 800,00 = R 900,00</entry>
+              <entry namest="c4" nameend="c6">Cash flow:Cash in - cash out = R800,00</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170871687345">Therefore, although the business shows a profit of R900,00 for the month, there is a shortfall of R800,00 at the end of the particular month. The business shows a good profit, but Peter needed financing to help him with his cash flow problems.</para>
+      <para id="id1170870343359">Use the following example to draw up a profit/cash flow table:</para>
+      <para id="id1170865923552">Mr Alfa owns his own car repair business. He has two mechanics working for him. Their respective salaries are R1 800,00 and R2 600,00 per month. He buys car parts at R2 100,00, for which he has to pay within 90 days. He repairs nine cars during the month and receives R10 400,00 for his work. He receives R3 200,00 of this amount on the 10th day of the following month only.</para>
+      <para id="id1170871666823">He rents a workshop at R900,00 per month and pays an amount of R450,00 per month for his telephone and electricity bills.</para>
+      <table id="id1170867239999" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3">PROFIT</entry>
+              <entry namest="c4" nameend="c6">CASH FLOW</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3">Nett profit:</entry>
+              <entry namest="c4" nameend="c6">Cash flow:</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170867205869">Many profitable businesses close down simply because they cannot control their cash flow problems. A good business plan can show up these problems so that one might try to avoid them.</para>
+      <para id="id1170871724528">[LO 4.4] </para>
+      <para id="id1170870410664">SUMMARY</para>
+      <para id="id1170870328436">A GOOD BUSINESS PLAN COVERS THREE MAIN AREAS.</para>
+      <list id="id1170871785832" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>The entrepreneur:</item>
+      </list>
+      <para id="id1170870175312">The business plan must indicate who the entrepreneur is and what experience he or she has. It will also indicate the entrepreneur's involvement with the business clearly, e.g. whether he/she is a sole owner, partner or shareholder.</para>
+      <list id="id1170871447565" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>The business</item>
+      </list>
+      <para id="id1170865898499">The business plan must provide the name of the business, explain the nature of the business (the product or service provided to the client and how it is provided), where it is situated and why the consumer will benefit by the product or service.</para>
+      <para id="id1170867182123">It must indicate very clearly why clients would be interested in the product and why they would buy it from you rather than from your competitors. It should also provide adequate information about the potential market.</para>
+      <list id="id1170871645622" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Finances</item>
+      </list>
+      <para id="id1170871796440">This is a very important section of the business plan. The various financial statements will indicate whether there is enough money to start the business, whether it will be profitable and whether it will generate enough cash to carry it from month to month.</para>
+      <para id="id1170871626406">Now we are ready to draw up our own business plan. Decide on the nature of the business, because the next module will provide enough guidance to draw up a very thorough business plan.</para>
+    </section>
+    <section id="id1170871621995">
+      <title>Assessment</title>
+      <table id="id1170865915686" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning Outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry>LO 4</entry>
+            </row>
+            <row>
+              <entry>ENTREPRENEURIAL KNOWLEDGE AND SKILLSThe learner will be able to demonstrate entrepreneurial knowledge, skills and attitudes.</entry>
+            </row>
+            <row>
+              <entry>Assessment Standards(ASs)</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>4.2 identifies a variety of possible business opportunities in the community (school co-operatives, sports, entertainment, tourism);</entry>
+            </row>
+            <row>
+              <entry>4.3 designs an advertising campaign to promote a product that will generate a profit;</entry>
+            </row>
+            <row>
+              <entry>4.4 participates in a fair or market day at school or in the community to practice and apply entrepreneurial knowledge and skills;</entry>
+            </row>
+            <row>
+              <entry>4.5 describes how the four elements of the marketing mix are combined in a simple business activity.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
